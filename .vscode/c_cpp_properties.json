@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "PX4",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/tianxuanji/文档/PX4-Autopilot/boards/zeroone/x6/src",
+                "/home/tianxuanji/文档/PX4-Autopilot/platforms/nuttx/src/px4/stm/stm32h7/include",
+                "/home/tianxuanji/文档/PX4-Autopilot/platforms/nuttx/NuttX/nuttx/include/"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "cppStandard": "c++14",
+            "cStandard": "c11",
+            "dotConfig": "/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/NuttX/nuttx/.config",
+            "forcedInclude": [
+                 "/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/px4_boardconfig.h",
+                 "/home/tianxuanji/文档/PX4-Autopilot/platforms/common/include/px4_platform_common/defines.h"
+                 ]
+        }
+    ],
+    "version": 4
+}

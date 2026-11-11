@@ -1,0 +1,13 @@
+# Target labels
+ FlameGraph
+# Source files and their labels
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/platforms/nuttx/CMakeFiles/FlameGraph
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/platforms/nuttx/CMakeFiles/FlameGraph.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/platforms/nuttx/CMakeFiles/FlameGraph-complete.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-build.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-configure.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-download.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-install.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-mkdir.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-patch.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/FlameGraph/FlameGraph-update.rule

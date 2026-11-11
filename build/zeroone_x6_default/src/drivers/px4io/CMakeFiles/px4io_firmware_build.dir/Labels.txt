@@ -1,0 +1,13 @@
+# Target labels
+ px4io_firmware_build
+# Source files and their labels
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/src/drivers/px4io/CMakeFiles/px4io_firmware_build-complete.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-build.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-configure.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-download.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-install.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-mkdir.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-patch.rule
+/home/tianxuanji/文档/PX4-Autopilot/build/zeroone_x6_default/external/Stamp/px4io_firmware_build/px4io_firmware_build-update.rule
